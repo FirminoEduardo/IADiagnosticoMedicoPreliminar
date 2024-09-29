@@ -1,0 +1,101 @@
+Teste,Sintomas,Busca em Largura,Busca em Profundidade,Busca Gulosa,A*
+1,"['dor abdominal', 'calafrios', 'febre', 'náusea', 'dor de cabeça']",infectologista,infectologista,infectologista,infectologista
+2,"['tontura', 'dor de cabeça', 'náusea']",neurologista,neurologista,neurologista,neurologista
+3,"['náusea', 'fadiga', 'dor de cabeça', 'febre', 'dor no peito', 'tontura', 'calafrios', 'dor abdominal']",cardiologista,cardiologista,cardiologista,cardiologista
+4,"['febre', 'náusea', 'tontura', 'calafrios', 'fadiga', 'dor de cabeça']",neurologista,neurologista,neurologista,neurologista
+5,"['dor no peito', 'dor abdominal', 'náusea', 'calafrios', 'febre', 'dor de cabeça']",infectologista,infectologista,infectologista,infectologista
+6,"['dor abdominal', 'febre', 'dor no peito', 'fadiga', 'dor de cabeça', 'tontura', 'calafrios', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+7,"['fadiga', 'calafrios', 'febre', 'dor abdominal', 'dor no peito', 'dor de cabeça']",cardiologista,cardiologista,cardiologista,cardiologista
+8,"['febre', 'tontura', 'dor no peito', 'fadiga', 'dor de cabeça', 'calafrios', 'dor abdominal', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+9,"['náusea', 'dor de cabeça', 'calafrios', 'dor abdominal', 'tontura', 'dor no peito', 'febre', 'fadiga']",cardiologista,cardiologista,cardiologista,cardiologista
+10,"['dor no peito', 'dor de cabeça', 'calafrios', 'dor abdominal', 'febre', 'tontura']",neurologista,neurologista,neurologista,neurologista
+11,"['dor no peito', 'dor de cabeça', 'náusea', 'calafrios', 'febre', 'fadiga']",cardiologista,cardiologista,cardiologista,cardiologista
+12,"['dor abdominal', 'tontura', 'febre', 'fadiga', 'dor de cabeça', 'calafrios', 'dor no peito', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+13,"['calafrios', 'febre', 'dor no peito', 'dor de cabeça', 'fadiga']",cardiologista,cardiologista,cardiologista,cardiologista
+14,"['tontura', 'dor no peito', 'dor de cabeça', 'náusea']",neurologista,neurologista,neurologista,neurologista
+15,"['tontura', 'fadiga', 'náusea', 'calafrios', 'dor abdominal', 'febre']",infectologista,infectologista,infectologista,infectologista
+16,"['dor abdominal', 'febre', 'náusea', 'dor no peito', 'calafrios', 'tontura']",infectologista,infectologista,infectologista,infectologista
+17,"['febre', 'calafrios', 'fadiga', 'dor de cabeça', 'dor abdominal', 'dor no peito', 'tontura', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+18,"['dor abdominal', 'dor de cabeça', 'tontura', 'calafrios', 'fadiga', 'febre', 'náusea', 'dor no peito']",cardiologista,cardiologista,cardiologista,cardiologista
+19,"['náusea', 'febre', 'dor no peito', 'fadiga', 'dor de cabeça', 'tontura', 'calafrios', 'dor abdominal']",cardiologista,cardiologista,cardiologista,cardiologista
+20,"['fadiga', 'náusea', 'dor no peito', 'dor de cabeça', 'tontura', 'dor abdominal', 'febre']",cardiologista,cardiologista,cardiologista,cardiologista
+21,"['dor de cabeça', 'fadiga', 'dor no peito', 'febre', 'tontura']",cardiologista,cardiologista,cardiologista,cardiologista
+22,"['febre', 'dor de cabeça', 'calafrios', 'náusea', 'dor no peito', 'fadiga']",cardiologista,cardiologista,cardiologista,cardiologista
+23,"['calafrios', 'dor no peito', 'febre', 'tontura', 'náusea', 'dor abdominal']",infectologista,infectologista,infectologista,infectologista
+24,"['dor no peito', 'náusea', 'calafrios', 'fadiga', 'febre', 'dor abdominal']",cardiologista,cardiologista,cardiologista,cardiologista
+25,"['náusea', 'dor no peito', 'tontura', 'fadiga', 'febre', 'calafrios', 'dor de cabeça', 'dor abdominal']",cardiologista,cardiologista,cardiologista,cardiologista
+26,"['dor de cabeça', 'tontura', 'calafrios', 'dor abdominal', 'fadiga', 'febre', 'dor no peito']",cardiologista,cardiologista,cardiologista,cardiologista
+27,"['tontura', 'febre', 'dor no peito', 'fadiga', 'dor de cabeça', 'calafrios', 'dor abdominal', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+28,"['fadiga', 'dor abdominal', 'calafrios', 'náusea', 'dor no peito', 'febre']",cardiologista,cardiologista,cardiologista,cardiologista
+29,"['fadiga', 'dor de cabeça', 'febre', 'dor no peito', 'tontura', 'calafrios', 'dor abdominal', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+30,"['dor no peito', 'tontura', 'dor abdominal', 'náusea', 'calafrios']",gastroenterologista,gastroenterologista,gastroenterologista,gastroenterologista
+31,"['dor abdominal', 'febre', 'dor no peito', 'fadiga', 'dor de cabeça', 'tontura', 'calafrios', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+32,"['febre', 'dor abdominal', 'fadiga', 'dor de cabeça', 'dor no peito']",cardiologista,cardiologista,cardiologista,cardiologista
+33,"['tontura', 'náusea', 'dor abdominal', 'dor de cabeça', 'fadiga', 'febre', 'calafrios']",neurologista,neurologista,neurologista,neurologista
+34,"['náusea', 'febre', 'fadiga', 'calafrios']",infectologista,infectologista,infectologista,infectologista
+35,"['calafrios', 'fadiga', 'febre', 'dor no peito', 'dor de cabeça', 'tontura', 'dor abdominal', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+36,"['dor no peito', 'dor abdominal', 'náusea', 'fadiga', 'tontura']",cardiologista,cardiologista,cardiologista,cardiologista
+37,"['dor abdominal', 'febre', 'dor de cabeça', 'náusea', 'tontura', 'calafrios', 'dor no peito']",neurologista,neurologista,neurologista,neurologista
+38,"['fadiga', 'febre', 'dor no peito', 'dor de cabeça', 'tontura', 'calafrios', 'dor abdominal', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+39,"['dor no peito', 'febre', 'dor abdominal', 'fadiga', 'calafrios']",cardiologista,cardiologista,cardiologista,cardiologista
+40,"['calafrios', 'febre', 'tontura', 'náusea', 'fadiga', 'dor abdominal', 'dor de cabeça']",neurologista,neurologista,neurologista,neurologista
+41,"['dor de cabeça', 'dor abdominal', 'tontura']",neurologista,neurologista,neurologista,neurologista
+42,"['dor de cabeça', 'febre', 'fadiga', 'dor no peito', 'tontura', 'calafrios', 'dor abdominal', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+43,"['dor abdominal', 'dor de cabeça', 'febre', 'dor no peito', 'fadiga', 'tontura', 'calafrios', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+44,"['dor no peito', 'dor de cabeça', 'dor abdominal', 'fadiga', 'febre', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+45,"['fadiga', 'dor abdominal', 'febre', 'dor no peito', 'dor de cabeça', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+46,"['dor de cabeça', 'dor no peito', 'febre', 'tontura', 'dor abdominal', 'náusea']",neurologista,neurologista,neurologista,neurologista
+47,"['fadiga', 'dor de cabeça', 'dor no peito', 'tontura', 'calafrios', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+48,"['dor no peito', 'dor abdominal', 'calafrios', 'fadiga', 'náusea', 'tontura']",cardiologista,cardiologista,cardiologista,cardiologista
+49,"['dor abdominal', 'náusea', 'fadiga', 'tontura', 'calafrios', 'febre', 'dor no peito']",cardiologista,cardiologista,cardiologista,cardiologista
+50,"['dor abdominal', 'náusea']",gastroenterologista,gastroenterologista,gastroenterologista,gastroenterologista
+51,"['fadiga', 'febre', 'dor no peito', 'dor de cabeça', 'tontura', 'calafrios', 'dor abdominal', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+52,"['tontura', 'dor abdominal', 'febre', 'dor no peito', 'fadiga', 'dor de cabeça', 'calafrios', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+53,"['náusea', 'dor abdominal', 'calafrios', 'dor de cabeça', 'tontura']",neurologista,neurologista,neurologista,neurologista
+54,"['dor abdominal', 'náusea', 'fadiga', 'febre', 'calafrios', 'dor no peito', 'dor de cabeça', 'tontura']",cardiologista,cardiologista,cardiologista,cardiologista
+55,"['fadiga', 'febre', 'dor no peito', 'dor de cabeça', 'tontura', 'calafrios', 'dor abdominal', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+56,"['fadiga', 'tontura', 'dor no peito', 'febre']",cardiologista,cardiologista,cardiologista,cardiologista
+57,"['dor abdominal', 'calafrios', 'febre', 'dor no peito', 'fadiga', 'dor de cabeça', 'tontura', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+58,"['dor de cabeça', 'febre', 'tontura']",neurologista,neurologista,neurologista,neurologista
+59,"['náusea', 'calafrios', 'dor abdominal']",gastroenterologista,gastroenterologista,gastroenterologista,gastroenterologista
+60,"['calafrios', 'dor de cabeça', 'febre']",infectologista,infectologista,infectologista,infectologista
+61,"['calafrios', 'dor de cabeça', 'náusea', 'febre', 'dor no peito', 'fadiga', 'dor abdominal']",cardiologista,cardiologista,cardiologista,cardiologista
+62,"['dor abdominal', 'febre', 'dor de cabeça', 'dor no peito', 'náusea']",gastroenterologista,gastroenterologista,gastroenterologista,gastroenterologista
+63,"['fadiga', 'tontura', 'dor no peito', 'dor de cabeça', 'calafrios']",cardiologista,cardiologista,cardiologista,cardiologista
+64,"['calafrios', 'febre', 'dor abdominal', 'dor de cabeça', 'náusea']",infectologista,infectologista,infectologista,infectologista
+65,"['náusea', 'dor de cabeça', 'tontura', 'febre', 'dor abdominal', 'dor no peito', 'fadiga', 'calafrios']",cardiologista,cardiologista,cardiologista,cardiologista
+66,"['fadiga', 'dor de cabeça', 'febre', 'dor no peito', 'tontura', 'calafrios', 'dor abdominal', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+67,"['dor abdominal', 'tontura', 'febre', 'dor no peito', 'fadiga', 'dor de cabeça', 'calafrios', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+68,"['dor no peito', 'fadiga', 'náusea', 'dor de cabeça', 'tontura', 'calafrios', 'febre']",cardiologista,cardiologista,cardiologista,cardiologista
+69,"['dor de cabeça', 'calafrios', 'dor abdominal', 'febre', 'náusea', 'tontura', 'fadiga']",neurologista,neurologista,neurologista,neurologista
+70,"['tontura', 'calafrios', 'náusea', 'dor de cabeça', 'febre', 'dor abdominal', 'fadiga', 'dor no peito']",cardiologista,cardiologista,cardiologista,cardiologista
+71,"['dor no peito', 'fadiga', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+72,"['tontura', 'febre', 'fadiga', 'dor no peito', 'dor de cabeça', 'calafrios', 'dor abdominal', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+73,"['dor de cabeça', 'febre', 'dor no peito', 'fadiga', 'tontura', 'calafrios', 'dor abdominal', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+74,"['náusea', 'calafrios', 'fadiga', 'febre', 'dor no peito', 'dor de cabeça', 'tontura', 'dor abdominal']",cardiologista,cardiologista,cardiologista,cardiologista
+75,"['dor abdominal', 'tontura', 'febre', 'dor no peito', 'fadiga', 'dor de cabeça', 'calafrios', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+76,"['náusea', 'dor de cabeça', 'febre', 'dor no peito', 'fadiga', 'tontura', 'calafrios', 'dor abdominal']",cardiologista,cardiologista,cardiologista,cardiologista
+77,"['fadiga', 'febre', 'náusea', 'dor de cabeça', 'dor no peito', 'calafrios']",cardiologista,cardiologista,cardiologista,cardiologista
+78,"['fadiga', 'febre', 'dor de cabeça', 'dor no peito', 'dor abdominal', 'tontura', 'calafrios']",cardiologista,cardiologista,cardiologista,cardiologista
+79,"['fadiga', 'febre', 'dor no peito', 'dor de cabeça', 'tontura', 'calafrios', 'dor abdominal', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+80,"['dor de cabeça', 'náusea', 'dor no peito', 'calafrios', 'febre', 'dor abdominal', 'fadiga', 'tontura']",cardiologista,cardiologista,cardiologista,cardiologista
+81,"['dor no peito', 'fadiga', 'tontura', 'febre', 'dor de cabeça', 'náusea', 'calafrios']",cardiologista,cardiologista,cardiologista,cardiologista
+82,"['calafrios', 'dor de cabeça', 'fadiga', 'náusea', 'febre', 'dor no peito', 'tontura', 'dor abdominal']",cardiologista,cardiologista,cardiologista,cardiologista
+83,"['fadiga', 'febre', 'dor no peito', 'dor de cabeça', 'tontura', 'calafrios', 'dor abdominal', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+84,"['fadiga', 'febre', 'dor no peito', 'dor de cabeça', 'tontura', 'calafrios', 'dor abdominal', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+85,"['calafrios', 'náusea', 'dor abdominal', 'dor de cabeça', 'fadiga', 'tontura']",neurologista,neurologista,neurologista,neurologista
+86,"['dor abdominal', 'febre', 'dor no peito', 'fadiga', 'dor de cabeça', 'tontura', 'calafrios', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+87,"['náusea', 'calafrios', 'dor abdominal', 'tontura', 'dor no peito']",gastroenterologista,gastroenterologista,gastroenterologista,gastroenterologista
+88,"['tontura', 'dor abdominal', 'febre', 'dor no peito', 'fadiga', 'dor de cabeça', 'calafrios', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+89,"['dor de cabeça', 'dor abdominal', 'febre', 'fadiga', 'tontura']",neurologista,neurologista,neurologista,neurologista
+90,"['tontura', 'febre', 'dor no peito', 'fadiga', 'dor de cabeça', 'calafrios', 'dor abdominal', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+91,"['febre', 'calafrios', 'dor abdominal', 'dor de cabeça']",infectologista,infectologista,infectologista,infectologista
+92,"['dor de cabeça', 'febre', 'dor no peito', 'fadiga', 'tontura', 'calafrios', 'dor abdominal', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+93,"['fadiga', 'dor de cabeça', 'dor abdominal', 'calafrios', 'dor no peito', 'febre', 'tontura']",cardiologista,cardiologista,cardiologista,cardiologista
+94,"['náusea', 'febre', 'fadiga', 'calafrios', 'tontura', 'dor abdominal']",infectologista,infectologista,infectologista,infectologista
+95,"['dor de cabeça', 'fadiga', 'febre', 'náusea', 'dor no peito', 'tontura', 'calafrios', 'dor abdominal']",cardiologista,cardiologista,cardiologista,cardiologista
+96,"['dor no peito', 'dor abdominal', 'calafrios', 'febre', 'fadiga', 'dor de cabeça', 'tontura', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+97,"['fadiga', 'calafrios', 'dor abdominal', 'febre', 'dor no peito', 'dor de cabeça', 'tontura', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+98,"['náusea', 'febre', 'dor no peito', 'fadiga', 'dor de cabeça', 'tontura', 'calafrios', 'dor abdominal']",cardiologista,cardiologista,cardiologista,cardiologista
+99,"['fadiga', 'febre', 'dor no peito', 'dor de cabeça', 'tontura', 'calafrios', 'dor abdominal', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
+100,"['dor no peito', 'febre', 'fadiga', 'dor de cabeça', 'tontura', 'calafrios', 'dor abdominal', 'náusea']",cardiologista,cardiologista,cardiologista,cardiologista
